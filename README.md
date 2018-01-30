@@ -288,3 +288,4 @@ Codewar 是一個程式解題平台，靠這些題目，可以訓練自己對語
 3. 交作業：Github + Github Classroom + Travis CI 自動批改
 4. 練習題目：Codewar
 
+#Daily-Noted
